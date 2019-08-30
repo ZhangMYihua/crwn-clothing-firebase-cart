@@ -1,7 +1,7 @@
 # crwn-clothing-firebase-cart
 This repository contains my solution for storing a users cart in firestore. Most of the new code is in the cart saga and firebase utils along with the typical react-redux actions and action types. Make sure to look at the README to see what the security rules are!
 
-The firebase rules I set up for the cart are:
+The firebase security rules I set up for the cart are:
 
 ![alt text](https://i.ibb.co/3SLTmvm/Screen-Shot-2019-08-29-at-10-12-32-PM.png "image to fork button")
 
